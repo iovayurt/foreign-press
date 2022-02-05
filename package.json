@@ -16,6 +16,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "passport": "^0.5.2",
     "pg": "^8.7.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
